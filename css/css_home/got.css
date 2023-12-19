@@ -1,0 +1,93 @@
+body{
+	background-image:url(../../imagens/brasao/home.jpg);
+	background-attachment:;
+	margin: 0;
+	padding: 0;
+
+}
+
+/****************Brasão*****************/
+#got{
+	margin-left: 450px;
+}
+#got1{
+	margin-left: 350px;
+}
+#got2{
+	margin-right:1050px;
+}
+#got3{
+	margin-right:450px;
+}
+
+#got4{
+	margin-right:340px;
+}
+/****************************************/
+/****************Menu*****************/
+#menu{ 	 
+	margin: auto 50px auto 50px; 
+	background:black ;
+	border-radius: 10px;
+	text-align: center;
+	position: relative;	
+
+
+}
+
+#menu li{
+	list-style: none;
+	display:inline-block;
+	text-align: center;
+	color: white ;
+
+}
+
+#menu ul li a{
+
+	text-decoration: none;
+	color:white;
+	padding: 15px 20px 15px 20px;
+	display: block;
+	transition: all .2s linear;
+}
+#menu ul li {
+	width: ;
+	float: center;
+}
+#menu a{
+	padding: 5px;
+	display: block;
+	background-color: ;
+	color: white;
+}
+
+#menu  ul li a:hover{
+	background: #8B4513;
+	
+	
+}
+#menu ul li ul{
+	display: none;
+}
+/****************************************/
+/*****************Rodapé*******************/
+#rodape{
+	text-align: center;
+	font-size: 18px;
+	background-color: black;
+	width: 400px;
+	margin: 0 auto;
+	padding: 10px;
+	border-radius: 10px;
+	text-decoration: none; 
+}
+#rodape a{
+	text-decoration: none;
+	color: white;
+
+}
+#rodape a:hover{
+	color:#8B4513;
+}
+/****************************************/
