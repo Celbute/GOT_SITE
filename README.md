@@ -9,7 +9,7 @@ Este site foi desenvolvido com o propósito de proporcionar uma visão abrangent
 Além disso, são apresentados os personagens recorrentes e secundários, juntamente com as respectivas durações dos episódios.
 
 ## Layout web
-![Web 1](https://github.com/Celbute/phots/blob/master/assets/Got-IMG/1temp.png)
+![Web 1](https://github.com/Celbute/phots/blob/master/assets/Got-IMG/home.png)
 
 
 # Tecnologias utilizadas
@@ -20,3 +20,6 @@ Além disso, são apresentados os personagens recorrentes e secundários, juntam
 # Autor
 André Luís 
 
+#Linkedin
+
+https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-14a8772a2/
